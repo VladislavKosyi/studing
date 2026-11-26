@@ -1,4 +1,7 @@
-name = "Vladislav " 
-surname = "Kosyi" 
-full_name = name + surname
-print (full_name)
+name = 'brawlstars'
+
+print (name [3])
+
+print (name [-6])
+
+print (name [5:9])
